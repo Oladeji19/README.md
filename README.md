@@ -12,7 +12,7 @@
 ### Connect with me: 
 
 
-Connect with me:
+
 [<img align= "left" alt="Oladeji19 | Gmail" width= "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail] 
 [<img align= "left" alt="Oladeji19 | Twitter" width= "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] 
 [<img align= "left" alt="Oladeji19 | linkedin" width= "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin] 
