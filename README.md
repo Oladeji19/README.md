@@ -40,7 +40,7 @@
 
 [<img align="left" alt="Git" width="26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />] 
  
-[<img align="left" alt="Google Cloud" width="26px" src= "https://camo.githubusercontent.com/9c789129e7259ef66a90802d64cf38ac9cdf5fd7ea8828b35e7e548c6413bd53/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436c6f75642d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d636c6f7564" />] 
+[<img align="left" alt="Google Cloud" width="26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/googlecloud/googlecloud.png" />] 
 
 [<img align="left" alt="TensorFlow" width="26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />] 
 
