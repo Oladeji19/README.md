@@ -1,9 +1,9 @@
 ### Hi there, I'm Oladeji 👋
 
 
-- I'm a Computer Science student at Rutgers University - New Brunswick !!!
-- 🔭 I'm currently working on Web development for a social media app with MERNG stacks
-- 🌱 I’m currently learning python libraries like tensorflow and pytorch on coursera🤣 
+- 🔭 I'm a Computer Science student at Rutgers University - New Brunswick !!!
+- 🌱 I'm currently working on Web development for a social media app with MERNG stacks
+- 🤣 I’m currently learning python libraries like tensorflow and pytorch on coursera 
 - 👯 I’m looking for a Software Engineering internship for the Summer 2022 
 - 🥅 2021 Goals: Do Machine Learning research with a professor 
 - ⚡ Fun fact: I love to play chess
