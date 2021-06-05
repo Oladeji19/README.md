@@ -26,7 +26,7 @@
  
 [<img align="left" alt="HTML5" width="26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />] 
 
-[<img align="left" alt="C" width="26px" src= "https://camo.githubusercontent.com/3bb12e16842fe7eabbf684f38c5a9d21e0bb15bef2a0a6b252293575e0cf0d4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532302d2532333030353939432e7376673f267374796c653d666c61742d737175617265266c6f676f3d63" />] 
+[<img align="left" alt="C" width="26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/C/C.png" />] 
  
 [<img align="left" alt="C++" width="26px" src= "https://camo.githubusercontent.com/8f43425702111cf74b8533f47f540e0800740979cdd6a0d59fafef11d1287cc1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d63" />] 
 [<img align="left" alt="C++" width="26px" src= "https://camo.githubusercontent.com/8f43425702111cf74b8533f47f540e0800740979cdd6a0d59fafef11d1287cc1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d432b2b2d3030353939433f7374796c653d666c61742d737175617265266c6f676f3d63" />] 
