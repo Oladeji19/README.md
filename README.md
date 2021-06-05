@@ -1,4 +1,4 @@
-### Hi there, I'm  👋
+### Hi there, I'm Oladeji 👋
 
 
 - I'm a Computer Science student at Rutgers University - New Brunswick !!!
@@ -13,9 +13,9 @@
 
 
 Connect with me:
-[<img align= "left" alt="Oladeji19 | Gmail" width= "22px" src="https://mail.google.com/mail/?tab=rm&authuser=0&ogbl" />][gmail] 
-[<img align= "left" alt="Oladeji19 | Twitter" width= "22px" src="https://twitter.com/OladejiFagbewe1" />][twitter] 
-[<img align= "left" alt="Oladeji19 | linkedin" width= "22px" src="https://www.linkedin.com/in/oladeji-fagbewesa-76b6a81a6/" />][linkedin] 
+[<img align= "left" alt="Oladeji19 | Gmail" width= "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/gmail.svg" />][gmail] 
+[<img align= "left" alt="Oladeji19 | Twitter" width= "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/twitter.svg" />][twitter] 
+[<img align= "left" alt="Oladeji19 | linkedin" width= "22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/linkedin.svg" />][linkedin] 
 
 <br /> 
 
