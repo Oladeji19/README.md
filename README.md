@@ -38,7 +38,7 @@
 
 [<img align="left" alt="Node.js" width="26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />] 
 
-[<img align="left" alt="Git" width="26px" src= "https://camo.githubusercontent.com/edd3031a0956c904634f9a394267a6ba61e9a0bb95c9512a1fbc0725b4014d03/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676974" />] 
+[<img align="left" alt="Git" width="26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />] 
  
 [<img align="left" alt="Google Cloud" width="26px" src= "https://camo.githubusercontent.com/9c789129e7259ef66a90802d64cf38ac9cdf5fd7ea8828b35e7e548c6413bd53/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476f6f676c65253230436c6f75642d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d676f6f676c652d636c6f7564" />] 
 
