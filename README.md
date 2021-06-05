@@ -25,7 +25,7 @@
 [webdevplaylist] 
 
  
-[<img align="left" alt="Python" width="26px" src= "https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e" />] 
+[<img align="left" alt="HTML5" width="26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />] 
 
 [<img align="left" alt="C" width="26px" src= "https://camo.githubusercontent.com/3bb12e16842fe7eabbf684f38c5a9d21e0bb15bef2a0a6b252293575e0cf0d4a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632532302d2532333030353939432e7376673f267374796c653d666c61742d737175617265266c6f676f3d63" />] 
  
