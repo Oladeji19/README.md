@@ -22,7 +22,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />] 
-[webdevplaylist] 
+
  
 [<img align="left" alt="Python" width="26px" src= "https://camo.githubusercontent.com/66827c53581cfee18c55618697d74a3c6167932d3c1980fba2019ef7a3e553b0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d626c61636b3f7374796c653d666c61742d737175617265266c6f676f3d507974686f6e" />] 
 
@@ -60,5 +60,5 @@
 [gmail]: https://mail.google.com/mail/?tab=rm&authuser=0&ogbl 
 [twitter]: https://twitter.com/OladejiFagbewe1 
 [linkedin]: https://www.linkedin.com/in/oladeji-fagbewesa-76b6a81a6/ 
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt 
+
 
